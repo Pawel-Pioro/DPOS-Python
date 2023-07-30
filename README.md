@@ -1,6 +1,6 @@
 # DPOS-Python
 
-## IMPORTANT Log in details: 
+IMPORTANT Log in details: 
 <br> Username: dpteam <br>
 Password: 1234
 
